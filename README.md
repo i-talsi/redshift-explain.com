@@ -1,4 +1,4 @@
-# explain.dalibo.com
+# redshift-explain.com
 
 PEV2 Flask application
 
